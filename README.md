@@ -1,5 +1,5 @@
 # brainf--k
-My name in brainf***k
+My name in brainf**k
 
 [Code](https://www.jdoodle.com/execute-brainfuck-online)
 <img src="https://upload.wikimedia.org/wikipedia/commons/d/dd/ASCII-Table.svg"
