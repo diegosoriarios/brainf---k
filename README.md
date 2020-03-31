@@ -1,4 +1,4 @@
-# brainf--k
+# brainf--k interpreter
 My name in brainf**k
 
 [Code](https://www.jdoodle.com/execute-brainfuck-online)
